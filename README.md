@@ -4,8 +4,8 @@
 
 ### Maintainers
 
-* Naresh Nayak - Robert Bosch GmbH
-* Adriaan Niess - Robert Bosch GmbH
+* [Naresh Nayak - Robert Bosch GmbH](https://github.com/nayakned)
+* [Adriaan Niess - Robert Bosch GmbH](https://github.com/adriaan-niess)
 
 ## Introduction
 
